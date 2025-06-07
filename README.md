@@ -1,4 +1,4 @@
-<h1 align="center">👋 नमस्ते, I'm Dr. Bharat Kwatra, PhD.(Hon, MRSB, FRSM MiSCB) </h1>
+<h1 align="center">👋 नमस्ते, I'm Dr. Bharat Kwatra, [PhD.(Hon), MRSB, FRSM MiSCB] </h1>
 <h3 align="center">Computational Biologist | AI in Oncology | Educator | Author</h3>
 
 <p align="center">
