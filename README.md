@@ -1,5 +1,6 @@
-<h1 align="center">नमस्ते, I'm Dr. Bharat Kwatra 🇮🇳</h1>
-<h3 align="center">Computational Biologist | AI in Oncology | Founder @ BioInCRO</h3>
+<h1 align="center">👋 नमस्ते, I'm Dr. Bharat Kwatra, PhD.(Hon, MRSB, FRSM MiSCB </h1>
+<h3 align="center">Computational Biologist | AI in Oncology | Educator | Author</h3>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Precision-Oncology-red" />
   <img src="https://img.shields.io/badge/AI--Driven--Research-Enabled-blueviolet" />
@@ -11,7 +12,7 @@
 
 ### 🧬 About Me
 
-I am a 🇮🇳 **computational biologist**, clinical AI innovator, and entrepreneur advancing the **digital transformation of oncology**. With over **6 years of experience** in cancer genomics, I specialize in building **AI-integrated pipelines** and **bioinformatics frameworks** that power real-world clinical decisions.
+I am a 🇮🇳 **computational biologist**, AI innovator, and educator, advancing the **digital transformation of oncology**. With over **6 years of experience** in cancer genomics, I specialize in building **AI-integrated pipelines** and **bioinformatics frameworks** that power real-world clinical decisions.
 
 I lead with a vision: **making personalized medicine accessible, evidence-driven, and scalable.**
 
@@ -38,11 +39,12 @@ I lead with a vision: **making personalized medicine accessible, evidence-driven
 
 ---
 
-### 🌐 Founder & Global Collaborator
+### 🌐 Professional Engagements
 
-👨‍💼 **Founder of BioInCRO** — advancing AI genomics consulting and product R&D.  
-🌍 Collaborations across 🇬🇧 UK, 🇮🇳 India, and international healthtech ecosystems.  
-🧾 Currently involved in **regulatory submissions**, **SLA/MOU drafting**, and **cross-border compliance** for AI–NGS diagnostics.  
+- 👨‍🏫 **Visiting Professor** at Sabarmati University
+- 🧪 **Research Associate** at Barts Cancer Institute, London
+- 🧠 **Mentor** at Publons Academy
+- 🧬 **Editor** for multiple international journals including Acta Scientific Microbiology and EC Microbiology
 
 ---
 
@@ -58,25 +60,27 @@ I lead with a vision: **making personalized medicine accessible, evidence-driven
 
 ---
 
-### 📈 Vision & Mission
+### 📈 GitHub Stats
 
-> _“To democratize precision oncology through data science, AI, and compassionate care — empowering both clinicians and patients to make informed decisions faster.”_
+![Bharat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bharatkwatra&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bharatkwatra&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bharatkwatra&theme=radical)
 
 ---
 
 ### 📬 Connect with Me
 
-- 🌐 [Website](https://yourpersonalwebsite.com)
+- 🌐 [Website](https://www.bharatkwatra.com/)
 - 💼 [LinkedIn](https://linkedin.com/in/bharatkwatra)
 - 📧 `bharatkwatra[at]gmail[dot]com`
+
+> _"Building data-driven tools that empower clinicians, researchers, and patients to make informed, personalized decisions."_
 
 ---
 
 ### 🙏 Thank You for Visiting!
 
-Whether you're here to explore, collaborate, or just say hi —  
-**Feel free to ⭐️ repos, fork ideas, or connect with me across platforms.**  
-Let’s build a future where **bioinformatics meets humanity**.
+Feel free to ⭐️ repositories, open Issues/PRs, or reach out for collaborations in AI, genomics, or healthtech consulting.
 
 _✨ With respect and curiosity,  
 Dr. Bharat Kwatra (PhD Hon., FRSM, MRSB)_
