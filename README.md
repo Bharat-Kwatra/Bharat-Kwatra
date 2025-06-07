@@ -10,77 +10,132 @@
 
 ---
 
-### 🧬 About Me
+---
 
-I am a **computational biologist**, AI innovator, and educator, advancing the **digital transformation of oncology**. With over **6 years of experience** in cancer genomics, I specialize in building **AI-integrated pipelines** and **bioinformatics frameworks** that power real-world clinical decisions.
+### 👋 Who Am I?
 
-I lead with a vision: **making personalized medicine accessible, evidence-driven, and scalable.**
+I’m **Dr. Bharat Kwatra**, a computational biologist and TechBio innovator with 6+ years of experience bridging **oncogenomics, AI systems, and patient-centric innovation**.
+
+🔬 **Current Roles**:
+- **Head of Genomics & AI @ RareCan (UK)**
+- **Visiting Researcher @ Newcastle University (cfDNA + Variant Matching)**
+- **Global Precision Oncology Consultant & Speaker**
+
+💡 I’m building the next generation of **AI-powered decision support tools** in oncology — integrating **clinical data, genomics, and generative AI** to make precision medicine *smarter, faster, and more inclusive*.
 
 ---
 
-### 🧠 Areas of Expertise
+### 🔭 What I Build
 
-- 🔎 **Cancer Genomics** (WES, RNA-seq, ChIP-seq, ctDNA, multi-omics integration)
-- 🧬 **Custom Gene Panels** (NGS design, variant annotation, drug–gene mapping)
-- 🤖 **AI/ML in Precision Oncology** (LLMs, cohort stratification, pharmacogenomics)
-- 💻 **Workflow Automation** (Snakemake, Nextflow, Docker, GitHub Actions)
-- 🧾 **Clinical NLP** (spaCy, Transformers, Trial Eligibility Modeling)
-- 📊 **Apple Silicon Bioinformatics Optimization**
+🚀 **LLM Agents for Oncology**
+- Chain-of-thought agents that parse trials, flag ambiguity, and simulate tumor board logic.
+- JSON schema-enforced output with confidence scoring.
 
----
+🧬 **Custom NGS & PGx Pipelines**
+- Reproducible workflows via Snakemake + GATK + VEP + COSMIC.
+- Fully Apple Silicon–optimized, parallelized, and Dockerized.
 
-### 🏆 Recognition
+📄 **Structured Trial Parsing**
+- Converts unstructured eligibility criteria to atomic JSON entries.
+- Classifies by arms, subprotocols, I/E flags, and flags “data needed.”
 
-- 🎓 **Honorary PhD** (Health Sciences) — Unilogos & FACMED  
-- 🧪 **7 Patents** in AI-powered diagnostics and bioinformatics tools  
-- 📖 **3 Books Authored**, **45+ Publications**, and global conference presentations  
-- 🏅 **9× Young Scientist Awardee**  
-- 🧬 Member of elite bodies: **FRSM**, **MRSB**, **EMBO**, and more  
+💡 **Real-time Clinical NLP**
+- From raw case notes → trial candidates + missing data triggers.
+- GPT-4 + FAISS + BM25 hybrid retrieval + LangChain.
 
----
-
-### 🌐 Professional Engagements
-
-- 👨‍🏫 **Visiting Professor** at Sabarmati University
-- 🧪 **Research Associate** at Barts Cancer Institute, London
-- 🧠 **Mentor** at Publons Academy
-- 🧬 **Editor** for multiple international journals including Acta Scientific Microbiology and EC Microbiology
+📊 **Personalized Dosage Engine**
+- BioInCURA: Drug–gene–variant database for PGx-driven dosage optimization.
 
 ---
 
-### 🔧 Tools & Tech I Use
+### 🧠 Research Problems I'm Exploring
 
-| Domain             | Stack Highlights                                                                 |
-|--------------------|-----------------------------------------------------------------------------------|
-| 🧬 Bioinformatics   | Snakemake • Nextflow • GATK • VEP • STAR • BWA • Samtools                        |
-| 🤖 AI/ML           | Transformers • scikit-learn • xgboost • LangChain • Sentence Transformers         |
-| 💬 NLP             | spaCy • GPT-4 APIs • BM25 • Hugging Face Hub                                     |
-| 🛠 Infra & DevOps  | FastAPI • Docker • SQLite • GitHub Actions • FAISS                               |
-| 🍏 Apple Silicon   | ARM-optimized Python/R • Conda-forge ARM builds • Parallel compute tuning         |
+- 🔍 How can LLMs reduce ambiguity in clinical trial eligibility at scale?
+- 🧬 Can we simulate “virtual patient trajectories” across multi-omics inputs?
+- 🤖 How do we align AI-generated trial matches with real-world physician decision-making?
+- 📈 Can AI agents autonomously flag toxic dosing or missing biomarkers?
+- 🧠 How to unify structured patient data + free-text notes + PDFs into usable decision support?
 
 ---
 
-### 📈 GitHub Stats
+### 🧰 My TechBio Toolkit
 
-![Bharat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bharatkwatra&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bharatkwatra&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bharatkwatra&theme=radical)
-
----
-
-### 📬 Connect with Me
-
-- 🌐 [Website](https://www.bharatkwatra.com/)
-- 💼 [LinkedIn](https://linkedin.com/in/bharatkwatra)
-- 📧 `bharatkwatra[at]gmail[dot]com`
-
-> _"Building data-driven tools that empower clinicians, researchers, and patients to make informed, personalized decisions."_
+| Area | Tools & Technologies |
+|------|----------------------|
+| 🧬 Bioinformatics | GATK, VEP, STAR, BWA, Samtools, COSMIC, ClinVar |
+| ⚙️ Workflow Automation | Snakemake, Nextflow, Docker, GitHub Actions |
+| 🤖 AI/ML | scikit-learn, xgboost, sentence-transformers, OpenAI API |
+| 💬 NLP | spaCy, GPT-4, LangChain, BM25, FAISS |
+| 🌐 Infrastructure | FastAPI, SQLite, Streamlit, Conda-forge ARM |
+| 🧠 LLM Agents | JSON-constrained GPT prompts, function calling, MedCPT, RAG pipelines |
 
 ---
 
-### 🙏 Thank You for Visiting!
+### 🧬 My TechBio Vision
 
-Feel free to ⭐️ repositories, open Issues/PRs, or reach out for collaborations in AI, genomics, or healthtech consulting.
+> _"Biology is becoming programmable. I'm writing the compiler."_
 
-_✨ With respect and curiosity,  
-Dr. Bharat Kwatra (PhD Hon., FRSM, MRSB)_
+- Empower **oncologists with AI** that explains, not just answers.
+- Build **agentic systems** that mimic how a tumor board reasons.
+- Translate **data chaos → clarity** using structured NLP + genomic evidence.
+- Make **AI safe, transparent, and aligned** in the clinic — not just benchmarks.
+
+---
+
+### 🏆 Milestones
+
+- 🧪 **7 Patents** in Technology, Medicine and Biomedical Tech
+- 📖 **45+ Scientific Publications** | **3 Authored Books**
+- 🎖️ **Honorary PhDs (USA, Brazil)** | **FRSM**, **MRSB**
+- 🧠 Mentor at Publons Academy | Keynote speaker in 🇬🇧 🇺🇸 🇸🇪 🇩🇪 🇷🇴
+- 🏅 **9× Young Scientist Awards** across international conferences
+
+---
+
+### 💬 Fun Facts
+
+- 🎮 Working on a **synthetic patient simulation tool** using GPT + curated omics
+- 📜 Auto-generating **trial eligibility schemas** from PDFs using AI agents
+- ☁️ Playing with **LangChain serverless deployments** for oncology use cases
+- 🧪 Built an **entire trial matching system** powered by OpenAI + retrieval + FastAPI
+
+---
+
+### 🌍 Let’s Collaborate
+
+- 🔗 Website: [www.bharatkwatra.com](https://www.bharatkwatra.com)
+- 💼 LinkedIn: [linkedin.com/in/bharatkwatra](https://linkedin.com/in/bharatkwatra)
+- 📬 Email: `bharatkwatra[at]gmail[dot]com`
+
+> _“If AI is the scalpel, let’s make sure clinicians are the hands.”_
+
+---
+
+---
+
+### 🔮 Coming Soon
+
+🧠 **Shakti-AI**  
+> A low-bandwidth, Hindi+English regional clinical assistant for Tier-2/3 healthcare settings
+
+🧬 **IndMammo.AI**  
+> Breast cancer screening and risk scoring model tailored to Indian population genetics
+
+🧪 **OncoOS**  
+> A unified LLM-powered dashboard for oncology workflows built on FastAPI + Streamlit
+
+---
+
+### 🔧 TechBio Challenges I'm Fixing
+
+🧩 Parsing nested trial arms & biomarkers from PDF/HTML trials  
+🦾 Creating agentic LLMs that reason like clinicians — not autocomplete  
+📄 Structuring unstructured: turning eligibility free text → atomic JSON  
+🌡 Monitoring toxicity and PGx interactions in patient-specific dosage  
+📊 Real-time cohort scoring with confidence + evidence trail
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=bharatkwatra&label=Profile%20Visits&color=6f42c1&icon=github" />
+</p>
