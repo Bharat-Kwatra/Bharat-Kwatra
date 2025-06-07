@@ -1,4 +1,4 @@
-<h1 align="center">👋 नमस्ते, I'm Dr. Bharat Kwatra, PhD.(Hon, MRSB, FRSM MiSCB </h1>
+<h1 align="center">👋 नमस्ते, I'm Dr. Bharat Kwatra, PhD.(Hon, MRSB, FRSM MiSCB) </h1>
 <h3 align="center">Computational Biologist | AI in Oncology | Educator | Author</h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ### 🧬 About Me
 
-I am a 🇮🇳 **computational biologist**, AI innovator, and educator, advancing the **digital transformation of oncology**. With over **6 years of experience** in cancer genomics, I specialize in building **AI-integrated pipelines** and **bioinformatics frameworks** that power real-world clinical decisions.
+I am a **computational biologist**, AI innovator, and educator, advancing the **digital transformation of oncology**. With over **6 years of experience** in cancer genomics, I specialize in building **AI-integrated pipelines** and **bioinformatics frameworks** that power real-world clinical decisions.
 
 I lead with a vision: **making personalized medicine accessible, evidence-driven, and scalable.**
 
