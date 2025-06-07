@@ -1,5 +1,5 @@
 <h1 align="center"> 🙏"नमस्ते", I'm Dr. Bharat Kwatra, [PhD.(Hon), MRSB, FRSM MiSCB] </h1>
-<h3 align="center">Computational Biologist | AI in Oncology | Educator | Author</h3>
+<h3 align="center">Computational Precision OncoGenomics | AI in Oncology | Educator | Author</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Precision-Oncology-red" />
