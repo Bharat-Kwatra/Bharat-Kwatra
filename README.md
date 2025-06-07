@@ -14,7 +14,7 @@
 
 ### 👋 Who Am I?
 
-I’m **Dr. Bharat Kwatra**, a computational biologist and TechBio innovator with 6+ years of experience bridging **oncogenomics, AI systems, and patient-centric innovation**.
+I’m **Dr. Bharat Kwatra**, a Computational Precision Oncologist, Translational Ai and Genomic Consultant and TechBio innovator with 6+ years of experience bridging **oncogenomics, AI systems, Translation bioinformatics, Single and Spatial analysis and Patient-centric innovation**.
 
 🔬 **Current Roles**:
 - **Head of Genomics & AI @ RareCan (UK)**
