@@ -104,7 +104,7 @@ I’m **Dr. Bharat Kwatra**, a Computational Precision Oncologist, Translational
 ### 🌍 Let’s Collaborate
 
 - 🔗 Website: [www.bharatkwatra.com](https://www.bharatkwatra.com)
-- 💼 LinkedIn: [linkedin.com/in/bharatkwatra](https://linkedin.com/in/bharatkwatra)
+- 💼 LinkedIn: [linkedin.com/in/bharatkwatra]((https://www.linkedin.com/in/bharat-kwatra?originalSubdomain=uk))
 - 📬 Email: `bharatkwatra[at]gmail[dot]com`
 
 > _“If AI is the scalpel, let’s make sure clinicians are the hands.”_
